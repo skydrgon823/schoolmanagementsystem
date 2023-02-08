@@ -1,0 +1,19 @@
+.sidebar-content {
+    width: 200px !important;
+}
+.side-on{
+  width: 200px !important;
+}
+
+
+.nav.nav-tabs.nav-tabs-highlight>li>a.nav-link.active{
+  background-color: #095e54;
+  color: white;
+}
+.nav.nav-tabs.nav-tabs-highlight>li>a.nav-link{
+  color: white;
+}
+.nav.nav-tabs.nav-tabs-highlight{
+  background-color: green;
+  color: white;
+}
